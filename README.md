@@ -1,2 +1,1 @@
-# Global-Quantum-Project
-### Womanium 2023
+# Global Quantum Project for Womanium 2023
