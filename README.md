@@ -1,6 +1,6 @@
 # Global Quantum Project : Womanium 2023
 
-Welcome to tthe Global Quantum Project for Womanium 2023! This repository is a compilation of resources from an offline workshop that saw the enthusiastic participation of 60 students. The workshop was dedicated to the exploration of quantum physics and quantum computing, providing students with a comprehensive introduction to these cutting-edge fields.
+Welcome to the Global Quantum Project for Womanium 2023! This repository is a compilation of resources from an offline workshop that took place at Modern College of Professional Studies. The workshop brought together 60 enthusiastic students for a deep dive into the realms of quantum physics and quantum computing.
 
 ### Workshop Overview
 
@@ -25,4 +25,13 @@ The workshop aimed to offer students a foundational understanding of quantum phe
 This repository encompasses a variety of resources utilized during the workshop:
 - Presentation slides employed during the offlien sessions, offering comprehensive oberview of each segment.
 - Code samples and tutorials utilizing **Qiskit** providing students with a practical understanding of coding quantum algorithms.
+
+### Acknowledgement
+- **Nisha Singh:** Principal of Modern College of Professional Studies, for her invaluable support and permission to host this transformative event.
+- **Aparna Singh:** Head of the Computer Science Department, whose visinory Guidance played a pivotal role in shaping this educational endeavpr.
+- **Participating Students:" Your active engagement and enthusiasm created inspiring learning environment that drove the success of this workshop.
+
+### Get in Touch
+If you have any feedback, suggestions, or questions, please don't hesitate to reach out. Your insights are invaluable in enhancing future editions of this workshop and repository.
+Let's continue unraveling teh mysteries of quantum physics and computing together!
 
