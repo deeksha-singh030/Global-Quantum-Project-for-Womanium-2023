@@ -10,7 +10,7 @@ The workshop aimed to offer students a foundational understanding of quantum phe
 - In-depth discussion of key quantum concepts such as interference, entanglement, and superposition.
 
 #### 2- Fundamentals of Quantum Computing
-- Introduction to dirac Notation, a mathematical framework crucial in quantum mechanics.
+- Introduction to Dirac Notation, a mathematical framework crucial in quantum mechanics.
 - Explanation of basic quantum gates and their functions.
 
 #### 3- Uneviling Quantum Algorithms
