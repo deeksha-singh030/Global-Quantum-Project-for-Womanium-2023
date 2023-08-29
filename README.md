@@ -29,7 +29,7 @@ This repository encompasses a variety of resources utilized during the workshop:
 ### Acknowledgement
 - **Nisha Singh:** Principal of Modern College of Professional Studies, for her invaluable support and permission to host this transformative event.
 - **Aparna Singh:** Head of the Computer Science Department, whose visinory Guidance played a pivotal role in shaping this educational endeavor.
-- **Participating Students:" Your active engagement and enthusiasm created inspiring learning environment that drove the success of this workshop.
+- **Participating Students:** Your active engagement and enthusiasm created inspiring learning environment that drove the success of this workshop.
 
 ### Get in Touch
 If you have any feedback, suggestions, or questions, please don't hesitate to reach out. Your insights are invaluable in enhancing future editions of this workshop and repository.
