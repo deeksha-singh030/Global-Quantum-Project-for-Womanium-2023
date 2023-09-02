@@ -30,6 +30,7 @@ This repository encompasses a variety of resources utilized during the workshop:
 - **Nisha Singh:** Principal of Modern College of Professional Studies, for her invaluable support and permission to host this transformative event.
 - **Aparna Singh:** Head of the Computer Science Department, whose visinory Guidance played a pivotal role in shaping this educational endeavor.
 - **Participating Students:** Your active engagement and enthusiasm created inspiring learning environment that drove the success of this workshop.
+- **WOMANIUM:** I want to express my sincere gratitude to the entire Womanium team for being a constant source of motivation during my journey as a Womanium Fellow on the Quantum Education PRoject. Your encouragemnet has been invaluable, and I  look forward to making a meaningful impact in the world of quantum education.
 
 ### Get in Touch
 If you have any feedback, suggestions, or questions, please don't hesitate to reach out. Your insights are invaluable in enhancing future editions of this workshop and repository.
